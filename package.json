@@ -1,0 +1,10 @@
+{
+  "name": "nestjs",
+  "version": "1.0.0",
+  "description": "practice nestjs",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@nestjs/cli": "^7.5.1"
+  }
+}
